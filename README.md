@@ -28,5 +28,5 @@ Now enter any of the following questions/statement and get the reply....... :-)
  - Hello
  - How are you?
  - Me also fine
- - What rae you doing?
+ - What are you doing?
  - HeHe :-D
