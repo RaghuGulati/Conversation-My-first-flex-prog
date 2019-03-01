@@ -17,10 +17,10 @@ Although this code is in <b> flex </b>, I am giving the step to install <b> biso
 
 # Step to execute flex code.
 Firstly clone the repository using git clone <link-of-this-repository> on terminal.
-Then go in the folder which is downloaded on cloning. You will find Conversation.l file
+Then go in the folder which is downloaded on cloning. You will find conversation.l file
   
   After this execute the following steps in terminal:<br>
-  flex Conversation.l<br>
+  flex conversation.l<br>
   cc lex.yy.c -lfl<br>
   ./a.out
 
